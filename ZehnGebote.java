@@ -2,8 +2,8 @@
 /**
  * Beschreiben Sie hier die Klasse ZehnGebote.
  * 
- * @author (Ihr Name) 
- * @version (eine Versionsnummer oder ein Datum)
+ * @author Jhm 
+ * @version 0.1
  */
 public class ZehnGebote
 {
