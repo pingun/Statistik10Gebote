@@ -3,7 +3,7 @@
  * Beschreiben Sie hier die Klasse ZehnGebote.
  * 
  * @author Jhm 
- * @version 0.3
+ * @version 0.5 
  */
 public class ZehnGebote
 {
