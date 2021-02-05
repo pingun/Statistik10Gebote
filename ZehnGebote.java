@@ -1,7 +1,8 @@
 
 /**
  * Beschreiben Sie hier die Klasse ZehnGebote.
- * 
+ * Prozenturaler Vergleich zw. vertikalen und horizontalen Geboten anhand der Anzahl der Wörter.
+ * Zu zeigen: Wie wichtig die Bezeihung zu Gott ist!
  * @author Jhm 
  * @version 0.6 
  */
