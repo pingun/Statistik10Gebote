@@ -2,7 +2,9 @@
 /**
  * Für eine Schülerandacht zu den 10 Geboten.
  * Prozenturaler Vergleich zw. vertikalen und horizontalen Geboten anhand der Anzahl der Wörter.
- * Um zu zeigen: Wie wichtig die Beziehung zu Gott ist!
+ * Um zu zeigen:
+ * - Christsein definiert sich nicht über die Taten!
+ * - Es geht Gott um die Beziehung zu ihm!
  * Übersetzung: Elberfelder
  * @author Jhm 
  * @version 0.9 
